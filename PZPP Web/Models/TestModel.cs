@@ -7,6 +7,6 @@ namespace PZPP_Web.Models
 {
     public class TestModel
     {
-        static void Empty() { }
+        static void Empty() { string nothing = "nothing"; }
     }
 }
