@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZPP Web", "PZPP Web\PZPP Web.csproj", "{BA76831B-F2BB-47E4-8FCE-9DD34FD1ED1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZPP Web.Tests", "PZPP Web.Tests\PZPP Web.Tests.csproj", "{7C7524C6-F95A-426C-A8ED-28A40FE5288D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PZPP Base", "PZPP Base\PZPP Base.sqlproj", "{8E28E303-974C-46F9-AB39-D2924A859543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{7C7524C6-F95A-426C-A8ED-28A40FE5288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7524C6-F95A-426C-A8ED-28A40FE5288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7524C6-F95A-426C-A8ED-28A40FE5288D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E28E303-974C-46F9-AB39-D2924A859543}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
