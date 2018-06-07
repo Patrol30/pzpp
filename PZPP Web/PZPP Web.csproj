@@ -249,10 +249,12 @@
     <Content Include="Views\Ping\Devices.cshtml" />
     <Content Include="Views\Ping\Responses.cshtml" />
     <Content Include="Views\Ping\EditDevice.cshtml" />
+    <Content Include="Views\Roles\Index.cshtml" />
+    <Content Include="Views\Roles\UserList.cshtml" />
+    <Content Include="Views\Roles\AddUserToRole.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Roles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
